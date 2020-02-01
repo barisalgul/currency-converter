@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="btn_get_rates">Get Rates</string>
+    <string name="tv_try_rate">TRY Rate</string>
+    <string name="tv_usd_rate">USD Rate</string>
+    <string name="tv_jpy_rate">JPY Rate</string>
+    <string name="tv_gbp_rate">GBP Rate</string>
+    <string name="tv_base_currency">Base Currency</string>
+    <string name="tv_datetime">Date and Time: </string>
+</resources>
